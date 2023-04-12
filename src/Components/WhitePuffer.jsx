@@ -13,7 +13,7 @@ const Section = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background-image: url('./public/img/logo.jpg');
+  background-image: url('./img/logo.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center 40%;
