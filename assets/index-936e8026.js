@@ -62,7 +62,7 @@ Error generating stack: `+s.message+`
   color: white;
   scroll-snap-align: center;
   padding-top: 20vh;
-  background-image: url('./public/img/logo.jpg');
+  background-image: url('./img/logo.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center 40%;
@@ -3534,7 +3534,7 @@ No matching component was found for:
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background-image: url('./public/img/logo.jpg');
+  background-image: url('./img/logo.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center 40%;
@@ -3612,7 +3612,7 @@ No matching component was found for:
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background-image: url('./public/img/logo.jpg');
+  background-image: url('./img/logo.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center 40%;
@@ -3689,7 +3689,7 @@ No matching component was found for:
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background-image: url('./public/img/logo.jpg');
+  background-image: url('./img/logo.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center 40%;
@@ -3768,7 +3768,7 @@ No matching component was found for:
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background-image: url('./public/img/logo.jpg');
+  background-image: url('./img/logo.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center 40%;
