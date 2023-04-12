@@ -2,7 +2,7 @@ import React from 'react';
 import styled from "styled-components"
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, PerspectiveCamera  } from "@react-three/drei";
-import Puffer from "./B_puffer"
+import Puffer from "./3D objects/B_puffer"
 
 const Section = styled.div`
   height: 100vh;
