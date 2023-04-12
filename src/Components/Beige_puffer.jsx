@@ -2,7 +2,7 @@ import React, { useRef } from 'react'
 import { useGLTF } from '@react-three/drei'
 
 export default function Model(props) {
-  const { nodes, materials } = useGLTF('.3D/beige_puffer-transformed.glb')
+  const { nodes, materials } = useGLTF('./3D/beige_puffer-transformed.glb')
   return (
     <group {...props} dispose={null}>
       <mesh geometry={nodes.Bras_gauche.geometry} material={materials.Beige} position={[-1.5, 0, 1.28]} scale={[1.01, 1, 1]} />
